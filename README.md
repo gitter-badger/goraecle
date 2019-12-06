@@ -1,4 +1,7 @@
 # Goraecle
+
+[![Join the chat at https://gitter.im/sonemas-community/goraecle](https://badges.gitter.im/sonemas-community/goraecle.svg)](https://gitter.im/sonemas-community/goraecle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Copyright © 2019 UAB "Sonemas" https://sonemas.com
 
 # About this project
